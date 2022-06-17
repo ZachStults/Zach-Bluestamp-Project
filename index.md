@@ -5,7 +5,7 @@ My goal is to make a solar panel capable of charging my phone. In order to maxim
 |:--:|:--:|:--:|:--:|
 | Zachary Stults | Maria Carrillo High School | Electrical Engineering | Rising Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image]![image](https://user-images.githubusercontent.com/107559808/174310788-9a6bc3d9-c201-46d0-b00c-a1e15ff480f2.png)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
