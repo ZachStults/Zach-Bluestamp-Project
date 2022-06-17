@@ -1,9 +1,9 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Sun Following Solar Panel Phone Charger
+My goal is to make a solar panel capable of charging my phone. In order to maximize the 0utput of the panel, it will be able to follow the sun as it moves throughout the sky.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Zachary Stults | Maria Carrillo High School | Electrical Engineering | Rising Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
