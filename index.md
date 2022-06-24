@@ -3,7 +3,7 @@ My goal is to make a solar panel capable of charging my phone. In order to maxim
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Zachary Stults | Maria Carrillo High School | Electrical Engineering | Rising Senior
+| Zachary | Maria Carrillo High School | Electrical Engineering | Rising Senior
 
 ![image](https://user-images.githubusercontent.com/107559808/174310788-9a6bc3d9-c201-46d0-b00c-a1e15ff480f2.png)
   
