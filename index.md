@@ -8,9 +8,9 @@ My goal is to make a solar panel capable of charging my phone. In order to maxim
 ![image](https://user-images.githubusercontent.com/107559808/174310788-9a6bc3d9-c201-46d0-b00c-a1e15ff480f2.png)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone is having my project be fully operational, with the panel being able to charge my phone as well as follow the sun. It was a challenge to get everything working because my USB connectors were faulty, and it only worked once a new one was ordered. After getting everything soldered and glued, my panel, sensors, motor and phone charger are all working according to plan.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1656425484/video_to_markdown/images/youtube--1AgnIt4nWs8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=1AgnIt4nWs8 "Milestone 3")
 
 # Second Milestone
 My second milestone was creating the stand for my panel, as well as getting my photoresistor to read. Building the stand came with some frustration, as I realized that after I had already built it, my design was flawed and I had to rework it. After completing this I was able to hook up my photoresistor to my Arduino and run some code for it to output some data. The photoresistor worked great, giving low values in low light and high values in high light.
