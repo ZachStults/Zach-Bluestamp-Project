@@ -1,5 +1,5 @@
 ﻿# Sun Following Solar Panel Phone Charger
-My goal is to make a solar panel capable of charging my phone. In order to maximize the 0utput of the panel, it will be able to follow the sun as it moves throughout the sky.
+My goal is to make a solar panel capable of charging my phone. In order to maximize the output of the panel, it will be able to follow the sun as it moves throughout the sky.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
