@@ -5,8 +5,8 @@ My goal is to make a solar panel capable of charging my phone. In order to maxim
 |:--:|:--:|:--:|:--:|
 | Zachary | Maria Carrillo High School | Electrical Engineering | Rising Senior
 
-![image](https://user-images.githubusercontent.com/107559808/174310788-9a6bc3d9-c201-46d0-b00c-a1e15ff480f2.png)
-  
+![Schematic](https://user-images.githubusercontent.com/107559808/176446150-0b09fcec-88f7-4a55-bed6-eea0e26a928c.png)
+
 # Final Milestone
 My final milestone is having my project be fully operational, with the panel being able to charge my phone as well as follow the sun. It was a challenge to get everything working because my USB connectors were faulty, and it only worked once a new one was ordered. After getting everything soldered and glued, my panel, sensors, motor and phone charger are all working according to plan.
 
@@ -23,3 +23,5 @@ My second milestone was creating the stand for my panel, as well as getting my p
 My first milestone was proving that my solar panel worked, as well as running the sweep command on my servo! Both of these things were essential for my project, because the servo and panel are two very important parts of my project. To prove the panel worked, I bought a cheap flashlight and took out the LED. I then hooked it up to the solar panel's jumper cables, and was able to make it shine brightly!
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1655738517/video_to_markdown/images/youtube--XqmFpu_RGnA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/XqmFpu_RGnA "Milestone 1")
+
+![image](https://user-images.githubusercontent.com/107559808/174310788-9a6bc3d9-c201-46d0-b00c-a1e15ff480f2.png)
